@@ -15,7 +15,7 @@
             "value": [
                 { 
                     "principalId": "d291a1e0-1972-49f7-9e9b-27c793581718", 
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
                     "principalIdDisplayName": "Lighthouse Managed Group" 
                 }, 
                 { 
