@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2018-05-01/subscriptionDeploymentParameters.json#",
-    "contentVersion": "1.0.0.0",
+    "contentVersion": "1.1.0.0",
     "parameters": {
         "mspOfferName": {
             "value": "Moxie 365 Cloud Managed Services"
@@ -21,6 +21,12 @@
                 { 
                     "principalId": "d291a1e0-1972-49f7-9e9b-27c793581718", 
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
+                    "principalIdDisplayName": "Lighthouse Managed Group"
+                    
+                },
+                { 
+                    "principalId": "d291a1e0-1972-49f7-9e9b-27c793581718", 
+                    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635",
                     "principalIdDisplayName": "Lighthouse Managed Group"
                     
                 },
